@@ -1,6 +1,6 @@
 # Congratulations, you are one step closer to getting your issue resolved!
 
-Issue list: https://github.com/makersacademy/issues/issues
+Issue list: https://github.com/makersacademy/slack-overflow/issues
 
 ![screenshot](/img/issues.png)
 
