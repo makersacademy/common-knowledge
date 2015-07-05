@@ -46,6 +46,6 @@ http://stackoverflow.com/help/how-to-answer
 ## Issues roadmap
 
 - [x] Setup an issues repo, documentation
-- [ ] Define workflows/escalation policies
+- [x] Define workflows/escalation policies
 - [ ] Integrate to our end of week summary on the issues people are stuck on
-- [ ] Integrate with slack for notifications
+- [x] Integrate with slack for notifications
