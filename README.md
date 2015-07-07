@@ -16,6 +16,14 @@ You're stuck, you want to become unstuck. To increase the likelihood of this, ma
 
   * :x: I'm stuck on the thingy
   * :heavy_check_mark: Error logs, screenshots & links to your code
+    * Problems programmers face usually follow one of the following patterns:
+      - **Design**: “I do not know what the computer should do”.  
+      - **Selection**: “I know what to do, but do not know what to use”.  
+      - **Coordination**: “I know what to use, but do not know how to combine what I need”.  
+      - **Usage**: “I know what to use, but do not know how to use”.  
+      - **Understanding**: “I thought I knew how to use X, but it does not do what I expected”.  
+      - **Information**: “I understand what happened, but I can not check”.
+
 
   ![screenshot](/img/description.png)
 
