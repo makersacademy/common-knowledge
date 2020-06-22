@@ -13,7 +13,6 @@ This repository is a tool for you to use as much as you need.
 ### Search!
 
 Questions are stored as [repository issues](https://github.com/makersacademy/common-knowledge/issues).
-https://github.com/makersacademy/slack-overflow/issues?q=
 
 [Learn how to use advanced operators](https://help.github.com/articles/searching-issues/) to help you to filter the issues to ones relevant to you. Add a search query as a bookmark to your browser to access them quickly.
 
