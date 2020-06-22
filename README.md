@@ -1,59 +1,41 @@
-# Congratulations, you are one step closer to getting your issue resolved!
+# Common Knowledge
 
-Issue list: https://github.com/makersacademy/slack-overflow/issues
+Welcome! As a student at Makers, you're part of our [community of learners](https://early.khanacademy.org/open-ended/). It's one of our most valuable resources; all our students since [we recorded it](https://docs.google.com/spreadsheets/d/1iab67so3To5neYnwY6IcF7VX3oLt9WvR2xun4eTxsxo/edit#gid=0) consistently say that you enable and accelerate each others' learning.
 
-![screenshot](/img/issues.png)
+This repository is a tool for you to use as much as you need.
 
+## You might be here to
+- search if your question has already been asked and answered
+- ask a new question
+- answer an open question
+- contribute to this repository!
 
-You're stuck, you want to become unstuck. To increase the likelihood of this, make sure your issue has:
+### Search!
 
+Questions are stored as [repository issues](https://github.com/makersacademy/common-knowledge/issues).
+https://github.com/makersacademy/slack-overflow/issues?q=
 
-1. **Descriptive title**
-  * :x: Somebody please heeeeeeelp!
-  * :heavy_check_mark: SSL error using mailgun on laptop (works on Heroku)
+[Learn how to use advanced operators](https://help.github.com/articles/searching-issues/) to help you to filter the issues to ones relevant to you. Add a search query as a bookmark to your browser to access them quickly.
 
-2. **Descriptive message**
-
-  * :x: I'm stuck on the thingy
-  * :heavy_check_mark: Error logs, screenshots & links to your code
-    * Problems programmers face usually follow one of the following patterns:
-      - **Design**: “I do not know what the computer should do”.  
-      - **Selection**: “I know what to do, but do not know what to use”.  
-      - **Coordination**: “I know what to use, but do not know how to combine what I need”.  
-      - **Usage**: “I know what to use, but do not know how to use”.  
-      - **Understanding**: “I thought I knew how to use X, but it does not do what I expected”.  
-      - **Information**: “I understand what happened, but I can not check”.
+NB: Remember to upvote/comment on an issue if you're also having it so issues can get prioritised by number of people it's affecting. It's likely to be resolved faster!
 
 
-  ![screenshot](/img/description.png)
+### Ask!
 
-3. **Labels & Milestones**
-  * Your peers, alumni & coaches will be monitoring the issues, if you do not correctly label them it may not get picked up and resolved!
+1. Remember to [search](https://github.com/makersacademy/slack-overflow/issues?q=) for your question first, using search parameters for open and closed questions and keywords. 
+2. If a question already exists - comment on it and upvote it!
+3. If it doesn't exist, open a [new issue](https://github.com/makersacademy/slack-overflow/issues/new?assignees=&labels=&template=student-question.md&title=). Use labels to help!
+4. Spend time thinking about what information to provide in your question. Here are some [resources](http://stackoverflow.com/help/how-to-ask) to help. Remember, [subjective questions or unscoped](http://stackoverflow.com/help/dont-ask) questions won't get a speedy reply.
+5. When you feel it's answered, close the issue!
+6. If it takes a while, Slack a coach the link to the question - but be judicious when you choose to boost the response time, this strategy might not always work!
 
-  ![screenshot](/img/labels.png)
+### Answer!
 
-## Participation
+1. Definitely post a solution to the problem if you figure something out! And then celebrate, maybe with lots of emojis?
+2. Read this [guide](http://stackoverflow.com/help/how-to-answer) to answering questions, in short - make sure you've read and understood the question!
 
-* DO post a solution to the problem if you figure something out
-* DO upvote/comment on an issue if you're also having it so issues can get prioritised by number of people it's affecting. It's likelier to be resolved faster
+Take some time to investigate and answer your peers' questions! It's valuable evidence of demonstrating your understanding of the topic, and can give you an opportunity for some fun further learning!
 
-## Searching issues on Github
+### Contribute!
 
-Learn how to use advanced operators to help you to filter the issues to ones relevant to you. Add a search query as a bookmark to your browser to access them quickly.
-
-https://help.github.com/articles/searching-issues/
-
-## Stackoverflow guidelines
-
-http://stackoverflow.com/help/how-to-ask
-
-http://stackoverflow.com/help/dont-ask
-
-http://stackoverflow.com/help/how-to-answer
-
-## Issues roadmap
-
-- [x] Setup an issues repo, documentation
-- [x] Define workflows/escalation policies
-- [ ] Integrate to our end of week summary on the issues people are stuck on
-- [x] Integrate with slack for notifications
+Spot a typo? Want to suggest some resources? It's as easy as [opening a PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) and then slacking a coach a link to it.
