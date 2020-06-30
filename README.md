@@ -5,8 +5,8 @@ Welcome! As a student at Makers, you're part of our [community of learners](http
 This repository is a tool for you to use as much as you need.
 
 ## You might be here to
-- search if your question has already been asked and answered
-- ask a new question
+- [search](https://github.com/makersacademy/common-knowledge/issues?q=) if your question has already been asked and answered
+- [ask a new question](https://github.com/makersacademy/slack-overflow/issues/new?assignees=&labels=&template=student-question.md&title=)
 - answer an open question
 - contribute to this repository!
 
